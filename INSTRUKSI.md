@@ -6,10 +6,10 @@
 
 ## File proyek
 - `DESIGN.md`
+- `INSTRUKSI.md`
 - `PRD.md`
 - `index.html`
 - `src/main.js`
-- `src/style.css`
 
 ## Langkah deploy
 
