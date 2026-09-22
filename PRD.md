@@ -23,9 +23,8 @@ Dark-mode modern dengan aksen pink→ungu gradasi, font Inter (grotesk-sans), ga
 localStorage (default) — key `reelsStudio.ideas` (array ide tersimpan).
 
 ## File
-- `index.html` — struktur halaman + Tailwind CDN
-- `src/main.js` — seluruh logika aplikasi (generator ide, skrip, daftar, persistensi)
-- `src/style.css` — variabel token desain + styling tambahan
+- `index.html` — struktur halaman + semua CSS inline (Tailwind statis yang di-purge + styling custom)
+- `src/main.js` — seluruh logika aplikasi (generator ide, skrip, daftar, persistensi) — minified
 
 ## Kriteria selesai
 - Preview menampilkan halaman generator ide yang bisa menghasilkan ide saat tombol diklik.
